@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="unnamed.jpg" width="100%" alt="Profile Banner"/>
+  <img src="himmatmundhe07\unnamed.jpg" width="100%" alt="Profile Banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Himmat Mundhe</h1>
@@ -86,7 +86,17 @@
 
 ---
 
-# 📫 Connect With Me
+# � Resume & CV
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1r_KVQM-E3jN99eb-pW0Jm1R7LUSIj85d/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/📥_Download_Resume-FF6B6B?style=for-the-badge&logoColor=white" alt="Download Resume"/>
+  </a>
+</p>
+
+---
+
+# �📫 Connect With Me
 
 - 💻 **GitHub:** [himmatmundhe07](https://github.com/himmatmundhe07)
 - 🔗 **LinkedIn:** [Himmat Mundhe](https://www.linkedin.com/in/himmat-mundhe/)
