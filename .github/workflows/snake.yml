@@ -12,12 +12,17 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Prepare output directory
+        run: |
+          mkdir -p dist
+          ls -la
+
       - name: Generate GitHub Snake
         uses: Platane/snk@v3
         with:
           # github user name to read the contribution graph from (**required**)
-          # using action context var `github.repository_owner` or specified user
-          github_user_name: ${{ github.repository_owner }}
+          # using explicit username to avoid owner context issues in forks
+          github_user_name: himmatmundhe07
 
           # list of files to generate.
           # one file per line. Each output can be customized with options as query string.
