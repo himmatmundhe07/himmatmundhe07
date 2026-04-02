@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="himmatmundhe07\unnamed.jpg" width="100%" alt="Profile Banner"/>
+  <img src="https://raw.githubusercontent.com/himmatmundhe07/himmatmundhe07/main/unnamed.jpg" width="100%" alt="Profile Banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Himmat Mundhe</h1>
@@ -81,7 +81,7 @@
 # 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/himmatmundhe07/himmatmundhe07/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/himmatmundhe07/himmatmundhe07/main/dist/github-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
