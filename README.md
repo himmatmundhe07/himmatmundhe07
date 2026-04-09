@@ -41,6 +41,27 @@
 
 ---
 
+# � Resume & CV
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1r_KVQM-E3jN99eb-pW0Jm1R7LUSIj85d/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/📥_Download_Resume-FF6B6B?style=for-the-badge&logoColor=white" alt="Download Resume"/>
+  </a>
+</p>
+
+---
+
+# �📫 Connect With Me
+
+- 💻 **GitHub:** [himmatmundhe07](https://github.com/himmatmundhe07)
+- 🔗 **LinkedIn:** [Himmat Mundhe](https://www.linkedin.com/in/himmat-mundhe/)
+- 🧠 **LeetCode:** [Mundhe_Himmat](https://leetcode.com/u/Mundhe_Himmat/)
+- 🌐 **Portfolio:** [himmatmundhe.vercel.app](https://himmatmundhe.vercel.app/)
+- 🐦 **X (Twitter):** [@Himmat_Mundhe](https://x.com/Himmat_Mundhe)
+- 🎥 **YouTube:** [@himmatmundhe07](https://www.youtube.com/@himmatmundhe07)
+
+---
+
 # 🛠️ Tech Stack
 
 ### 💻 Languages
@@ -83,27 +104,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/himmatmundhe07/himmatmundhe07/main/dist/github-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
-
----
-
-# � Resume & CV
-
-<p align="center">
-  <a href="https://drive.google.com/file/d/1r_KVQM-E3jN99eb-pW0Jm1R7LUSIj85d/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/📥_Download_Resume-FF6B6B?style=for-the-badge&logoColor=white" alt="Download Resume"/>
-  </a>
-</p>
-
----
-
-# �📫 Connect With Me
-
-- 💻 **GitHub:** [himmatmundhe07](https://github.com/himmatmundhe07)
-- 🔗 **LinkedIn:** [Himmat Mundhe](https://www.linkedin.com/in/himmat-mundhe/)
-- 🧠 **LeetCode:** [Mundhe_Himmat](https://leetcode.com/u/Mundhe_Himmat/)
-- 🌐 **Portfolio:** [himmatmundhe.vercel.app](https://himmatmundhe.vercel.app/)
-- 🐦 **X (Twitter):** [@Himmat_Mundhe](https://x.com/Himmat_Mundhe)
-- 🎥 **YouTube:** [@himmatmundhe07](https://www.youtube.com/@himmatmundhe07)
 
 ---
 
